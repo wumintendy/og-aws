@@ -1,7 +1,6 @@
 ﻿![An Open Guide](figures/signpost-horiz1-1600.jpg)
 
 The Open Guide to Amazon Web Services
-test 
 =====================================
 
 [![Slack Chat](https://img.shields.io/badge/Chat-Slack-ff69b4.svg "Join us. Anyone is welcome!")](https://og-aws.slack.lexikon.io/) ⇦ Join us!
